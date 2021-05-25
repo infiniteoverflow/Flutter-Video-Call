@@ -4,8 +4,8 @@ import 'package:agora_rtc_engine/rtc_engine.dart';
 import 'package:agora_rtc_engine/rtc_local_view.dart' as RtcLocalView;
 import 'package:agora_rtc_engine/rtc_remote_view.dart' as RtcRemoteView;
 
-const appId = "95d395dcac5745128d8c7bd135a00daa";
-const token = "00695d395dcac5745128d8c7bd135a00daaIAA95oKp2v6wWlaL/UqDBap1mBYg0IqUPOinQFG15xjlFjiw7U4AAAAAEABZxLUYLAmpYAEAAQAsCalg";
+const appId = "<APP-ID>";
+const token = "<TOKEN>";
 
 void main() {
   runApp(const MyApp());
